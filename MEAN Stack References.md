@@ -74,6 +74,8 @@
 
 [NGGrid Filtering] (http://stackoverflow.com/questions/20434088/angularjs-ng-grid-filter-filtertext-format)
 
+[NGGrid Delete a row] (http://stackoverflow.com/questions/15955788/how-can-i-make-the-clicking-of-a-button-in-an-ng-grid-table-delete-a-row-from-th/)
+
 ### ...with Underscore/LoDash
 [LoDash documentation] (http://lodash.com/docs)
 
