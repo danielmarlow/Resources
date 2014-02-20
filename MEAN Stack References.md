@@ -72,6 +72,8 @@
 
 [NGGrid Demo] (http://www.jimsider.com/demos/nggrid/)
 
+[NGGrid Filtering] (http://stackoverflow.com/questions/20434088/angularjs-ng-grid-filter-filtertext-format)
+
 ### ...with Underscore/LoDash
 [LoDash documentation] (http://lodash.com/docs)
 
